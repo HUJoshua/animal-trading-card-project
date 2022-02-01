@@ -1,0 +1,77 @@
+.main-container{
+    width: 700px;
+    height: 550px;
+    border: 1px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.kea-container{
+    height: 530px;
+    width: 320px;
+    border: 2px solid lightgrey;
+    box-shadow: 5px 5px 2px lightgrey;
+    margin: auto;
+    font: 9pt dejavu-sans-mono;
+}
+.rabbit-container{
+    height: 530px;
+    width: 320px;
+    border: 2px solid lightgrey;
+    box-shadow: 5px 5px 2px lightgrey;
+    margin: auto;
+    font: 9pt constantia;
+}
+.animal-name{
+    width: 300px;
+    margin: 10px;
+    border: 1px dotted grey;
+    font-size: 16pt;
+    text-align: center;
+}
+.image-container{
+    height: 200px;
+    border: 1px;
+    margin: 10px;
+}
+img{
+    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+    width: 300px;
+    height: auto;
+    border: 1px solid lightgrey;
+    border-radius: 25px;
+}
+.kea-information{
+    height: 250px;
+    width: 300px;
+    border: 1px dashed lightgrey;
+    margin: 10px;
+    background-color:palegoldenrod;
+}
+.rabbit-information{
+    height: 250px;
+    width: 300px;
+    border: 1px dotted lightgrey;
+    margin: 10px;
+    background-color: peachpuff;
+}
+.interesting-facts{
+    border: 1px;
+    font-style: italic;
+    margin: 10px;
+}
+.items{
+    border: 1px;
+    list-style: none;
+    padding: 0;
+    margin: 10px;
+}
+span{
+    font-weight: bold;
+}
+.description{
+    border: 1px;
+    margin: 10px;
+}

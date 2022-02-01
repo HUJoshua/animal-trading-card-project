@@ -1,0 +1,1 @@
+A simple app displaying two of my favorite animals and a brief information about them.
